@@ -1,8 +1,8 @@
 PROJECT NAME: Black Mirror: under the digital spotlight
 CTRL js
 MEMBERS: Joy Jimmy (2509903) and Suha Shoohani (2504253)
-LINK TO GITHUB REPO: [Insert link here]
-LINK TO GITHUB PAGES: [Insert link here]
+LINK TO GITHUB REPO: https://github.com/jjimmy0/2504253-2509903-ma1805-final-project/tree/main
+LINK TO GITHUB PAGES: (https://jjimmy0.github.io/2504253-2509903-ma1805-final-project/)
 
 OVERVIEW OF PROJECT
 ‘Under the digital spotlight’ draws significant inspiration from the website love.xxx, which takes viewers on a journey through internet culture humour while also exploring the dehumanization of celebrities. The project reflects on the way digital surveillance has transformed our perception of celebrity lives, turning what was once considered private into public spectacles. In this era, paparazzi photos, once seen as invasive or harmful, have been recontextualized as iconic artifacts of modern culture. The aesthetic of the 2010s brutalist style heavily influences the visual design. This style, with its raw, unrefined look, mirrors political brutalism by emphasizing the harshness. It a reminisce of the blog era of the internet. 3x2 interactive image grid that reacts to user interaction, triggering hover effects and transitions between images, along with hidden text and generative animations. 
